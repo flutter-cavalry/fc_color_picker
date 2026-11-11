@@ -1,0 +1,11 @@
+{
+  "name": "fc_color_picker example",
+  "short_name": "Color Picker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#61C72E",
+  "description": "Example app for the fc_color_picker Flutter package.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
